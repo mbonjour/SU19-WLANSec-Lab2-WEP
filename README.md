@@ -74,7 +74,10 @@ Using your `manual-encryption.py` script, you will write a new one `encrypt-frag
 - Try a long message. Short messages tend to fail. You can actually encrypt the same message in each fragment (so that Wireshark should show the message 3 times in a row).
 
 
-## Deliverables
+## Deliverablesi
+
+### Screen of decrypted data
+![Wireshark decrypting our packet](./files/wireshark-decrypted.png)
 
 Fork of the original repo. Then, a Pull Request containing : :
 
