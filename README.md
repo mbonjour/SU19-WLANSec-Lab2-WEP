@@ -6,6 +6,8 @@ __Please work in teams of 3 students__
 
 __Korean/Swiss hybrid teams are highly encouraged__
 
+## Authors : Aygerim Bilyalova, Mickael Bonjour, Rachel Gan
+
 ### For this first part, you will need to:
 
 * Understand how to __manually__ decrypt WEP frames using Python and Scapy 
